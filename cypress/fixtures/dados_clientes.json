@@ -1,0 +1,25 @@
+
+
+{
+    
+"dados_cadastrais":
+
+{
+"nome":"João Aurélio da Silva Paranhos",
+"email": "joaoaurelio0911@gmail.com",
+"cpf":"15948008045"
+},
+
+"dados_endereco":
+{"cep": "02674000",
+"endereco":"Rua Ministro Lins de Barros",
+"numero": "583",
+"complemento": "Próximo ao final do 1743",
+"bairro": "Jardim Santa Cruz (Zona Norte)",
+"cidade": "São Paulo/SP"
+}
+
+
+
+}
+
